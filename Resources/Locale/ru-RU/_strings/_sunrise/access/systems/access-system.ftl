@@ -1,7 +1,7 @@
-access-system-sender = Система доступов
-access-system-accesses-established = Внимание! Доступы были перезаписаны.
-access-system-accesses-delay-green = Зафиксировано установление зеленого кода! Запущен протокол автоматической перезаписи доступов. Все аварийные доступы будут стёрты через 1 минуту.
-access-system-accesses-delay-blue = Зафиксировано установление синего кода! Запущен протокол автоматической перезаписи доступов. Сотрудники службы безопасности получат дополнительные доступы в технические помещения через 1 минуту.
-access-system-accesses-delay-red = Зафиксировано установление красного кода! Запущен протокол автоматической перезаписи доступов. Сотрудники службы безопасности получат расширенный доступ через 1 минуту.
-access-system-accesses-delay-yellow = Зафиксировано установление желтого кода! Запущен протокол автоматической перезаписи доступов. Атмосферные техники и Старший Инженер получат дополнительные доступы через 1 минуту.
-access-system-accesses-delay-gamma = Зафиксировано установление гамма кода! Запущен протокол автоматической перезаписи доступов. Сотрудники службы безопасности получат расширенный доступ через 1 минуту.
+access-system-sender = Access System
+access-system-accesses-established = Warning! Accesses have been overwritten.
+access-system-accesses-delay-green = Green code established! Automatic access overwrite protocol started. All emergency accesses will be erased in 1 minute.
+access-system-accesses-delay-blue = Blue code established! Automatic access overwrite protocol started. Security personnel will be granted additional access to technical rooms in 1 minute.
+access-system-accesses-delay-red = Red code established! Automatic access overwrite protocol started. Security personnel will be granted extended access in 1 minute.
+access-system-accesses-delay-yellow = Yellow code established! Automatic access overwrite protocol started. Atmospheric technicians and Senior Engineer will be granted additional access in 1 minute.
+access-system-accesses-delay-gamma = Gamma code established! Automatic access override protocol has been launched. Security personnel will receive extended access in 1 minute.
