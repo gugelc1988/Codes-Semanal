@@ -1,82 +1,148 @@
-accent-italian-words-301 = малышка
-accent-italian-words-replace-301 = bambino
-accent-italian-words-401 = плохая
-accent-italian-words-replace-401 = molto male
-accent-italian-words-402 = плохие
-accent-italian-words-replace-402 = molto male
-accent-italian-words-403 = плохое
-accent-italian-words-replace-403 = molto male
-accent-italian-words-501 = досвидания
-accent-italian-words-replace-501 = arrivederci
-accent-italian-words-502 = до-свидания
-accent-italian-words-replace-502 = arrivederci
-accent-italian-words-601 = кэп
-accent-italian-words-replace-601 = capitano
-accent-italian-words-701 = сыра
-accent-italian-words-replace-701 = parmesano
-accent-italian-words-801 = приготовить
-accent-italian-words-replace-801 = cucinare
-accent-italian-words-802 = приготовлю
-accent-italian-words-replace-802 = cucinare
-accent-italian-words-803 = пожарь
-accent-italian-words-replace-803 = cucinare
-accent-italian-words-804 = пожарить
-accent-italian-words-replace-804 = cucinare
-accent-italian-words-805 = пожарю
-accent-italian-words-replace-805 = cucinare
-accent-italian-words-901 = можешь
-accent-italian-words-replace-901 = potrebbe
-accent-italian-words-1001 = отец
-accent-italian-words-replace-1001 = pappa
-accent-italian-words-1101 = хорошая
-accent-italian-words-replace-1101 = molto bene
-accent-italian-words-1102 = хорошие
-accent-italian-words-replace-1102 = molto bene
-accent-italian-words-1103 = хорошее
-accent-italian-words-replace-1103 = molto bene
-accent-italian-words-1501 = приветик
-accent-italian-words-replace-1501 = ciao
-accent-italian-words-1701 = сделаю
-accent-italian-words-replace-1701 = fare una
-accent-italian-words-1702 = сделаем
-accent-italian-words-replace-1702 = fare una
-accent-italian-words-1703 = сделайте
-accent-italian-words-replace-1703 = fare una
-accent-italian-words-1801 = мяса
-accent-italian-words-replace-1801 = prosciutto
-accent-italian-words-1901 = мать
-accent-italian-words-replace-1901 = mamma
-accent-italian-words-2001 = моя
-accent-italian-words-replace-2001 = il mio
-accent-italian-words-2002 = моё
-accent-italian-words-replace-2002 = il mio
-accent-italian-words-2003 = мои
-accent-italian-words-replace-2003 = il mio
-accent-italian-words-2101 = ядерка
-accent-italian-words-replace-2101 = polpetta di carne
-accent-italian-words-2801 = щиткюрити
-accent-italian-words-replace-2801 = carabinieri
-accent-italian-words-3001 = пою
-accent-italian-words-replace-3001 = cantare
-accent-italian-words-3002 = спой
-accent-italian-words-replace-3002 = cantare
-accent-italian-words-3101 = макарон
-accent-italian-words-replace-3101 = SPAGHETT
-accent-italian-words-3102 = макароны
-accent-italian-words-replace-3102 = SPAGHETT
-accent-italian-words-3201 = острая
-accent-italian-words-replace-3201 = piccante
-accent-italian-words-3202 = острые
-accent-italian-words-replace-3202 = piccante
-accent-italian-words-3203 = острое
-accent-italian-words-replace-3203 = piccante
-accent-italian-words-3401 = штука
-accent-italian-words-replace-3401 = una cosa
-accent-italian-words-3402 = штук
-accent-italian-words-replace-3402 = pezzi
-accent-italian-words-3701 = использовать
-accent-italian-words-replace-3701 = usare
-accent-italian-words-3801 = хотеть
-accent-italian-words-replace-3801 = desiderare
-accent-italian-words-4301 = вина
-accent-italian-words-replace-4301 = vino
+# copied from gaby station accent
+
+accent-italian-words-1 = assistente
+accent-italian-words-replace-1 = goombah
+
+accent-italian-words-2 = assistentes
+accent-italian-words-replace-2 = goombahs
+
+accent-italian-words-3 = bebe
+accent-italian-words-replace-3 = bambino
+
+accent-italian-words-4 = mau
+accent-italian-words-replace-4 = molto male
+
+accent-italian-words-5 = tchau
+accent-italian-words-replace-5 = arrivederci
+
+accent-italian-words-6 = capitão
+accent-italian-words-replace-6 = capitano
+
+accent-italian-words-7 = queijo
+accent-italian-words-replace-7 = parmesano
+
+accent-italian-words-8 = cozinhar
+accent-italian-words-replace-8 = cozinhar-a
+
+accent-italian-words-9 = Poderia
+accent-italian-words-replace-9 = could-a
+
+accent-italian-words-10 = pai
+accent-italian-words-replace-10 = pappa
+
+accent-italian-words-11 = bom
+accent-italian-words-replace-11 = molto bene
+
+accent-italian-words-12 = greytide
+accent-italian-words-replace-12 = curvisti
+
+accent-italian-words-13 = greytider
+accent-italian-words-replace-13 = curvisti
+
+accent-italian-words-14 = greytiders
+accent-italian-words-replace-14 = curvisti
+
+accent-italian-words-15 = ola
+accent-italian-words-replace-15 = ciao
+
+accent-italian-words-16 = é
+accent-italian-words-replace-16 = é-a
+
+accent-italian-words-17 = fazer
+accent-italian-words-replace-17 = fazer-a
+
+accent-italian-words-18 = carne
+accent-italian-words-replace-18 = prosciutto
+
+accent-italian-words-19 = mãe
+accent-italian-words-replace-19 = mamma
+
+accent-italian-words-20 = meu
+accent-italian-words-replace-20 = meu-a
+
+accent-italian-words-21 = nuke
+accent-italian-words-replace-21 = spiciest-a meatball
+
+accent-italian-words-22 = op
+accent-italian-words-replace-22 = greek
+
+accent-italian-words-23 = operativo
+accent-italian-words-replace-23 = greek
+
+accent-italian-words-24 = ops
+accent-italian-words-replace-24 = greeks
+
+accent-italian-words-25 = sec
+accent-italian-words-replace-25 = polizia
+
+accent-italian-words-26 = segurança
+accent-italian-words-replace-26 = polizia
+
+accent-italian-words-27 = secoff
+accent-italian-words-replace-27 = polizia
+
+accent-italian-words-28 = shitcurity
+accent-italian-words-replace-28 = carabinieri
+
+accent-italian-words-29 = shitsec
+accent-italian-words-replace-29 = carabinieri
+
+accent-italian-words-30 = cantar
+accent-italian-words-replace-30 = cantar-a
+
+accent-italian-words-31 = spaghetti
+accent-italian-words-replace-31 = SPAGHETT
+
+accent-italian-words-32 = picante
+accent-italian-words-replace-32 = p-picante
+
+accent-italian-words-33 = obrigado
+accent-italian-words-replace-33 = grazie
+
+accent-italian-words-34 = coisa
+accent-italian-words-replace-34 = coisa-a
+
+accent-italian-words-35 = traidor
+accent-italian-words-replace-35 = mafioso
+
+accent-italian-words-36 = traidores
+accent-italian-words-replace-36 = mafioso
+
+accent-italian-words-37 = use
+accent-italian-words-replace-37 = use-a
+
+accent-italian-words-38 = quero
+accent-italian-words-replace-38 = quero-a
+
+accent-italian-words-39 = O que é
+accent-italian-words-replace-39 = O que é-a
+
+accent-italian-words-40 = quem é
+accent-italian-words-replace-40 = quem é-a
+
+accent-italian-words-41 = cujo
+accent-italian-words-replace-41 = cujo-a
+
+accent-italian-words-42 = porque
+accent-italian-words-replace-42 = for-a what reason
+
+accent-italian-words-43 = vinho
+accent-italian-words-replace-43 = vino
+
+accent-italian-words-44 = passageiro
+accent-italian-words-replace-44 = goombah
+
+accent-italian-words-45 = passageiros
+accent-italian-words-replace-45 = goombahs
+
+accent-italian-words-46 = eu sou
+accent-italian-words-replace-46 = i'm-a
+
+accent-italian-words-47 = am-a
+accent-italian-words-replace-47 = am-a
+
+accent-italian-words-48 = and-a
+accent-italian-words-replace-48 = and-a
+
+accent-italian-words-49 = operativos
+accent-italian-words-replace-49 = greeks
