@@ -1,3 +1,3 @@
-﻿deployable-tool-deny = Инструмент не подходит
+﻿deployable-tool-deny = Wrong instrument
 
-deployable-deploy-success = {$deployer} развертывает {$target}
+deployable-deploy-success = {$deployer} unscrews {$target}
