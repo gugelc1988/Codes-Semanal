@@ -1,2 +1,2 @@
-hairdye-switch-hair = Переключить на волосы
-hairdye-switch-facial = Переключить на бороду
+hairdye-switch-hair = Switch to hair
+hairdye-switch-facial = Switch to beard
