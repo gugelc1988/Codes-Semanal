@@ -1,2 +1,2 @@
-marking-HumanFacialHairHandlebar = Усы (Велосипедный руль)
-marking-HumanFacialHairHandlebarAlt = Усы (Велосипедный руль альт.)
+marking-HumanFacialHairHandlebar = Whiskers (Bike Handlebar)
+marking-HumanFacialHairHandlebarAlt = Whiskers (Bike Handlebar Alt)
