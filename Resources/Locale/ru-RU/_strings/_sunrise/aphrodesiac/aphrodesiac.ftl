@@ -1,8 +1,8 @@
-aphrodesiac-effect1 = Ваша кожа приятно покалывает.
-aphrodesiac-effect2 = Ваше сердце быстро бьётся.
+aphrodesiac-effect1 = Your skin tingles pleasantly.
+aphrodesiac-effect2 = Your heart beats fast.
 reagent-effect-guidebook-love =
-    { $chance ->
-        [1] Вызывает
-       *[other] вызывают
-    } изменённое состояние сознания.
-reagent-beepskysmash-effect1 = Бипски наносит удар!
+{ $chance ->
+[1] Causes
+*[other] causes
+} an altered state of consciousness.
+reagent-beepskysmash-effect1 = Beepsky strikes!
