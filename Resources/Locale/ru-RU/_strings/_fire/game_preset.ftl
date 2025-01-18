@@ -1,2 +1,2 @@
 ﻿scp-title = SCP
-scp-description = Только лорные события и ивенты. Отлично подходит под стандартные смены с SCP объектами
+scp-description = Only lore accurate events. Great for a true SCP experience!
