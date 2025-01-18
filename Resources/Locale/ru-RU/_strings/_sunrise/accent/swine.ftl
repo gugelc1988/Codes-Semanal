@@ -1,3 +1,5 @@
-accent-swine-prefix-1 = Хрюк,
-accent-swine-prefix-2 = Хрюю,
-accent-swine-prefix-3 = Хрю-Хрю,
+accent-swine-prefix-1 = óinc-óinc,
+accent-swine-prefix-2 = óinc,
+accent-swine-prefix-3 = óinc-óinc,
+
+# tf is pig accent?
